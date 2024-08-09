@@ -1,2 +1,2 @@
 # probable-invention
-This is a [link](www.google.com)
+This is a [link](http://www.google.com)
